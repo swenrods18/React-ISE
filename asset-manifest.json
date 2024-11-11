@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-ISE/static/css/main.e6c13ad2.css",
+    "main.js": "/React-ISE/static/js/main.c6552f60.js",
+    "static/js/453.53c0d257.chunk.js": "/React-ISE/static/js/453.53c0d257.chunk.js",
+    "index.html": "/React-ISE/index.html",
+    "main.e6c13ad2.css.map": "/React-ISE/static/css/main.e6c13ad2.css.map",
+    "main.c6552f60.js.map": "/React-ISE/static/js/main.c6552f60.js.map",
+    "453.53c0d257.chunk.js.map": "/React-ISE/static/js/453.53c0d257.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c6552f60.js"
+  ]
+}
